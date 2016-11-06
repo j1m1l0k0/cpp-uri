@@ -6,6 +6,8 @@
  C++ Network URI
 ################
 
+This version compatible with any fivem code.
+
 .. image:: https://travis-ci.org/cpp-netlib/uri.png?branch=master
   :target: https://travis-ci.org/cpp-netlib/uri
 
